@@ -6,7 +6,7 @@ modal-id: 2
 date: 2021-05-10
 img: scootroute.jpg
 thumbnail: scootroute-thumbnail.jpg
-alt: image-alt
+alt: Screenshot of ScootRoute page
 project-date: April-May 2021
 client: Hackbright Capstone Project
 category: Web Development
