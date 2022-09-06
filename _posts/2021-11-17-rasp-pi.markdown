@@ -1,0 +1,15 @@
+---
+title: Raspberry Pi & NextCloud
+subtitle: Private Cloud Server
+layout: default
+modal-id: 3
+date: 2021-11-17
+img: rasppi.png
+thumbnail: rasppi-thumbnail.png
+alt: A hard drive, Raspberry Pi unit, and a Bluetooth keyboard
+project-date: November 2021
+client: Personal Project
+category: IoT
+description: Used a Raspberry Pi 4 and NextCloud software to create a private cloud server for my home network. The NextCloud server is hosted on Raspberry Pi, connected to my personal domain name, and can be used anywhere in the world in the same manner as Dropbox, iCloud, etc.
+
+---
