@@ -4,8 +4,8 @@ subtitle: Girls Who Code
 layout: default
 modal-id: 5
 date: 2021-09-14
-img: gwc.png
-thumbnail: gwc-thumbnail.png
+img: gwc-thumbnail.png
+thumbnail: gwc.png
 alt: image-alt
 project-date: 2021-2022 School Year
 client: Gateway High School
