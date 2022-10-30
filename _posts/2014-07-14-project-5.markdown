@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 2021-2022 School Year
 client: Gateway High School
 category: Instruction
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Clubs are free programs for 3rd-5th and 6th-12th grade students to join a sisterhood of supportive peers and role models using computer science to change the world. Clubs are completely free and offer fun activities through a flexible curriculum that adapts to a club's unique needs. Club members build coding skills and community as they complete coding projects.
 
 ---
