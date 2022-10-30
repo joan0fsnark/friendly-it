@@ -6,7 +6,7 @@ modal-id: 4
 date: 2021-12-15
 img: RPiSDS011.png
 thumbnail: RPiSDS011-thumbnail.png
-alt: A hard drive, a Raspberry Pi, and a particulate sensor.
+alt: A Raspberry Pi, a particulate sensor, and a power bank.
 project-date: December 2021
 client: Personal Project
 category: IoT
