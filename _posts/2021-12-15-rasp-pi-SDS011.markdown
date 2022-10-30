@@ -1,0 +1,14 @@
+---
+title: Indoor Air Quality Sensor
+subtitle: Raspberry Pi & SDS011 Particulate Sensor
+layout: default
+modal-id: 4
+date: 2021-12-15
+img: RPiSDS011.png
+thumbnail: RPiSDS011-thumbnail.png
+alt: A hard drive, a Raspberry Pi, and a particulate sensor.
+project-date: December 2021
+client: Personal Project
+category: IoT
+description: Built air quality sensor using a Raspberry Pi 3 and an SDS011 particulate sensor.
+---
