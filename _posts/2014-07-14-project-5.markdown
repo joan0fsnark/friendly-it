@@ -4,12 +4,12 @@ subtitle: Girls Who Code
 layout: default
 modal-id: 5
 date: 2021-09-14
-img: gwc-thumbnail.png
-thumbnail: gwc.png
+img: gwc.png
+thumbnail: gwc-thumbnail.png
 alt: image-alt
 project-date: 2021-2022 School Year
 client: Gateway High School
 category: Instruction
-description: Clubs are free programs for 3rd-5th and 6th-12th grade students to join a sisterhood of supportive peers and role models using computer science to change the world. Clubs are completely free and offer fun activities through a flexible curriculum that adapts to a club's unique needs. Club members build coding skills and community as they complete coding projects.
+description: Clubs are free programs for 3rd-5th and 6th-12th grade students to join a sisterhood of supportive peers and role models using computer science to change the world. Clubs are completely free and offer fun activities through a flexible curriculum that adapts to a club's unique needs. Club members build coding skills and community as they complete coding projects.	
 
 ---
